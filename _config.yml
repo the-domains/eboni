@@ -1,0 +1,14 @@
+layout_spectrum: 0.921886698808521
+typography_spectrum: 0.6581285984721035
+color:
+  brandStrength: 0.28038836806081235
+  lightness: 0.4369639924261719
+  saturation: 0.29797278507612646
+  rhythmicContrast: 0.3097014769446105
+  brandColors:
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
+name: eboni
