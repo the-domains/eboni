@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[eboni]]></title>
         <description><![CDATA[eboni]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eboni/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:58:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 17:16:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eboni/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <title><![CDATA[Something here running.]]></title>
+            <description><![CDATA[<article><h1>Something here running.</h1><h2>Creating a Site</h2><p>From your drafts dashboard, click the “Drafts” dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7172a1c8-3c08-4f0c-a272-58505f6059c0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eboni/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">79824e0f-1143-4de7-832e-8cd64ead7f17</guid>
-            <pubDate>Wed, 17 Aug 2016 16:58:28 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 17:15:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
